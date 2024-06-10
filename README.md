@@ -13,6 +13,7 @@ CornFood est une application web développée en PHP, permettant aux utilisateur
 3. **Détail des produits** : Affichage des informations détaillées sur chaque produit, avec des images, descriptions et prix.
 
 ## Structure du Projet
+```
 php-cornfood/
 ├── index.php
 ├── produits.php
@@ -20,7 +21,7 @@ php-cornfood/
 ├── datas/
 ├── templates/
 └── assets/
-
+```
 ## Détails du Backend
 Le backend de CornFood est principalement géré par des scripts PHP, qui permettent l'interaction avec les données et la génération dynamique des pages.
 
