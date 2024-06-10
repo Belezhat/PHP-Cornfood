@@ -21,20 +21,6 @@ php-cornfood/
 ├── templates/
 └── assets/
 
-php-cornfood
-  | ---- Your default namespace, which was generated dinamically with name: ProjectName
-  - CHANGELOG.md
-  | ---- Changelog to keep your updates and new features
-  - composer.json
-  | ---- A generic composer file with some basic configuration and namespace already configurated
-  - phpunit.xml
-  | ---- Phpunit configuration file, code coverage included
-  - phpcs.xml
-  | ---- Coding standard configuration, default: PSR-2 standards
-  | ----
-  - README.md
-  | ---- Some presentation about your new project 
-
 ## Détails du Backend
 Le backend de CornFood est principalement géré par des scripts PHP, qui permettent l'interaction avec les données et la génération dynamique des pages.
 
