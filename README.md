@@ -47,8 +47,4 @@ Ce répertoire contient des fichiers de données qui peuvent être utilisés par
     }
 ]
 
-<img alt="capture animé " src="assets/snap/gifcornfood.gif"> </img>
 
-<img alt="capture écran page produits" src="assets/snap/productlist.png"> </img>
-
-<img alt="capture écran produits details" src="assets/snap/productdetails.png"> </img>
