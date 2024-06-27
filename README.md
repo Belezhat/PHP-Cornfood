@@ -22,6 +22,12 @@ php-cornfood/
 ├── templates/
 └── assets/
 ```
+<img src="assets/snap/gifcornfood.gif">
+
+<img src="assets/snap/productdetails.png"> 
+
+<img src="assets/snap/productlist.png"> 
+
 ## Détails du Backend
 Le backend de CornFood est principalement géré par des scripts PHP, qui permettent l'interaction avec les données et la génération dynamique des pages.
 
@@ -47,8 +53,4 @@ Ce répertoire contient des fichiers de données qui peuvent être utilisés par
     }
 ]
 
-<img src="assets/snap/gifcornfood.gif">
 
-<img src="assets/snap/productdetails.png"> 
-
-<img src="assets/snap/productlist.png"> 
