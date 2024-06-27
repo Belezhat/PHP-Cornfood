@@ -47,4 +47,8 @@ Ce répertoire contient des fichiers de données qui peuvent être utilisés par
     }
 ]
 
+<img src="assets/snap/gifcornfood.gif">
 
+<img src="assets/snap/productdetails.png"> 
+
+<img src="assets/snap/productlist.png"> 
